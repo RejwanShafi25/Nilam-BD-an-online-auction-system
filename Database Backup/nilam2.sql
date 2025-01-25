@@ -405,7 +405,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `email_verified_at`, `password`, `role`, `remember_token`, `created_at`, `updated_at`, `google_id`, `avatar`, `address`) VALUES
 (1, 'Rejwan Shafi', 'Rejwan', 'rejwan.shafi@gmail.com', NULL, '$2y$12$2FROJEWZ/TqGuMwsW3oMaOustw6ytOUaLIyV.fnc7e0Ey.oVAqiUa', 2, NULL, '2024-09-19 10:24:55', '2024-09-19 10:24:55', NULL, NULL, NULL),
-(2, 'Rejwan', 'Niloy', 'rejwanshafi.study@gmail.com', NULL, '$2y$12$fE.kgk0NQrejBQH/i3FJ0OPDs0olMuUm2fWqgWylWFbXqX8mobrC6', 3, NULL, '2024-09-19 10:27:33', '2024-09-20 19:50:20', 'ya29.a0AcM612yeVNjUBArMxG_hyXRM7lpTVCwIkFnPcGxv42uZLA6IF6cNbrbjVPNFGKwPqI57nHiF1cYP4tJAPkg2VMEdCBEm10ioCPM8qAUht5Dfv22JFYI2m2RQZdXhtlkEl4fA9B9NIGB38JaMTPDIYAxyU9W6zsih3YtAZoaiaCgYKAR4SARASFQHGX2Mi37Ja-t0veQSYgghqtVt3kg0175', '1726861820.jpg', 'Dhanmondi'),
+(2, 'Rejwan', 'Niloy', 'rejwanshafi.study@gmail.com', NULL, '$2y$12$fE.kgk0NQrejBQH/i3FJ0OPDs0olMuUm2fWqgWylWFbXqX8mobrC6', 3, NULL, '2024-09-19 10:27:33', '2024-09-20 19:50:20', NULL, 'NULL', 'Dhanmondi'),
 (3, 'Sopnil Roy Niloy', 'Niloy', 'niloy@gmail.com', NULL, '$2y$12$tl1QFCZtOzv0aKCTtNkAneWrUMmQkbx9mFEVkWBqpd41v2xZK6SDa', 1, NULL, '2024-09-19 10:28:08', '2024-09-19 10:28:08', NULL, NULL, NULL),
 (4, 'Homairah Ferdousia', 'Homaira', 'homaira@gmail.com', NULL, '$2y$12$Ov39rDEQvVtcuT9IPMhBROy5LHRTxkv0P7tnGpgoK5AR3VNmkw502', 3, NULL, '2024-09-19 10:28:45', '2024-09-19 10:28:45', NULL, NULL, NULL),
 (5, 'Afif Rayhan Pranto', 'Pranto5', 'pranto@gmail.com', NULL, '$2y$12$gn..ddZaF9KWUT4LOrpdmur16/Fm.VSb67A571rAYagsfCsUMylw.', 3, NULL, '2024-09-19 10:29:24', '2024-09-20 19:39:47', NULL, '1726860966.jpg', 'Mirpur 12'),
