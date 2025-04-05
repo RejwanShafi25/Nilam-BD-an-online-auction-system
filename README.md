@@ -2,7 +2,7 @@
 ---
 Project Overview
 ---
-Nilam is designed to provide a comprehensive auction experience with a focus on transparency, security, and ease of use. The platform integrates essential features such as user authentication, auction management, real-time bidding, and an administrative dashboard to oversee all activities. The system’s modular design ensures each component—from user management to payment processing—functions seamlessly within an interconnected ecosystem.
+Nilam is designed to provide a comprehensive auction experience with a focus on transparency, security, and ease of use. The platform integrates essential features such as user authentication, auction management, real-time bidding, and an administrative dashboard to oversee all activities. The system’s modular design ensures each component from user management to payment processing functions seamlessly within an interconnected ecosystem.
 
 _**Core Modules**_
 
@@ -45,7 +45,7 @@ Technical Aspects
 
 Implementation and Deployment
 ---
-The project includes a comprehensive user manual that details the setup process—from installing Composer and Laravel Breeze to executing migration commands. The [GitHub repository](RejwanShafi/nilam-an-online-auction-system) contains the complete source code, which facilitates further development and collaboration.
+The project includes a comprehensive user manual that details the setup process from installing Composer and Laravel Breeze to executing migration commands. The [GitHub repository](RejwanShafi/nilam-an-online-auction-system) contains the complete source code, which facilitates further development and collaboration.
 
 **Group Members**
 ---
@@ -56,5 +56,5 @@ The project includes a comprehensive user manual that details the setup process�
 
 Conclusion
 ---
-"Nilam: An Online Auction System" demonstrates a successful integration of advanced web technologies and software design principles to create a sophisticated online auction platform. This project not only highlights technical proficiency in full-stack development but also underscores a commitment to security, scalability, and user experience—qualities that are invaluable in today’s competitive tech landscape.
+"Nilam: An Online Auction System" demonstrates a successful integration of advanced web technologies and software design principles to create a sophisticated online auction platform. This project not only highlights technical proficiency in full-stack development but also underscores a commitment to security, scalability, and user experience qualities that are invaluable in today’s competitive tech landscape.
 
